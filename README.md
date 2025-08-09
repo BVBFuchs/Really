@@ -1,3 +1,6 @@
+[![Invite Bot](https://img.shields.io/badge/Invite-Bot-brightgreen)](https://discord.com/oauth2/authorize?client_id=1403115067511410839&permissions=0&integration_type=0&scope=bot) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 # Really?!? - Discord Bot
 
 This game is a fast-paced, DM-driven social guessing challenge where players take turns making **true or false** statements about random topics.
